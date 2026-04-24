@@ -1,0 +1,1 @@
+python-telegram-bot==21.0\ngoogle-cloud-vision==3.7.0\nopenai==1.3.0\nrequests==2.31.0\nflask==3.0.0\nnumpy==1.24.3\npython-dotenv==1.0.0\nsqlalchemy==2.0.0
